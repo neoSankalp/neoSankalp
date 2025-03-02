@@ -35,7 +35,6 @@ We specialize in a wide range of services to cater to your business needs:<br>
 
 ## 🔗 **Connect With Us**
 
-a
 
 <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" width="16px" /> **Website:** [neosankalp.in](https://www.neosankalp.in/) <!-- Replace with actual link --> <br>
 <img src="https://files.softicons.com/download/application-icons/mac-os-apps-icons-4-by-hamza-saleem/png/256x256/Mail.png" width="16px" />
